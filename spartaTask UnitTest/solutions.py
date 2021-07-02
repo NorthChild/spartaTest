@@ -93,6 +93,11 @@ string1 = 'zoo'
 string2 = 'scrabble'
 string3 = 'faraday'
 
+
+# zoo = 12
+# scrabble = 14
+# faraday = 14
+
 def scrabble_counter(string):
 
     word_to_analyse = []
