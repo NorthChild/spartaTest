@@ -1,8 +1,8 @@
 #################################### NOTE ####################################
 #################################### NOTE ####################################
 
-# These are the solutions to the tasks, going by memory so i apologise if outputs are slightly different
-# IMPORTANT: to run the testing, make sure to run this script ('test_solutions.py') and rememeber to keep both scripts in the same folder
+# This is the testing for the solutions to the tasks, going by memory so i apologise if outputs are slightly different
+# IMPORTANT: to run the testing, make sure to run this script ('test_solutions.py') and remember to keep both scripts in the same folder
 
 
 #################################### NOTE ####################################
