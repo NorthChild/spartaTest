@@ -1,5 +1,5 @@
 # spartaTest
-solutions and function test using unittest module
+solutions to tasks and testing the solutions using unittest module
 
 
 # solutions.py
